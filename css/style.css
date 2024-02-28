@@ -6,3 +6,6 @@ body {
 h1 {
     color: red;
 }
+nav {
+    border: 1px solid black;
+}
