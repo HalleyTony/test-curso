@@ -1,5 +1,11 @@
 body {
     text-align: center;
     font-family: "Arial";
-    color: pink;
+    color: black;
+}
+h1 {
+    color: red;
+}
+nav {
+    border: 1px solid black;
 }
